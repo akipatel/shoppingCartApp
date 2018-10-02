@@ -1,0 +1,5 @@
+[
+  {"id": 1, "title": "iPad 4 Mini", "price": 500.01, "description": "Description for iPad 4 mini"},
+  {"id": 2, "title": "H&M T-Shirt White", "price": 10.99, "description":"Description for H&M T-Shirt White"},
+  {"id": 3, "title": "Charli XCX - Sucker CD", "price": 19.99, "description":"Description for Charli XCX - Sucker CD"}
+]
